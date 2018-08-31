@@ -1,2 +1,0 @@
-# HelloWorldReact
-Hello world
